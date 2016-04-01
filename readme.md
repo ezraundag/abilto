@@ -1,6 +1,6 @@
 # abilto
 
-## Simple Forum built on Laravel 5
+## Simple Forum built on Laravel 5.2
 ####Functionalities:
 
 1. Register user
