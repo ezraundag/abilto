@@ -11,7 +11,7 @@ To setup:
 
 4.```php artisan migrate```
 
-5. To run test: ```phpunit```
+5.To run test: ```phpunit```
 
 when InvalidArgumentException in FileViewFinder.php is encountered
 homestead> php artisan config:cache 
