@@ -13,6 +13,8 @@ To setup:
 
 5.To run test: ```phpunit```
 
-when InvalidArgumentException in FileViewFinder.php is encountered
-homestead> php artisan config:cache 
-homestead> php artisan config:clear
+when InvalidArgumentException in FileViewFinder.php is encountered, run the following
+
+```homestead> php artisan config:cache```
+
+```homestead> php artisan config:clear```
