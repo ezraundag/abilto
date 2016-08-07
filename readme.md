@@ -1,5 +1,3 @@
-# abilto
-
 ## Simple Forum built on Laravel 5.2
 ####Functionalities:
 
