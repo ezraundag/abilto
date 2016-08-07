@@ -31,9 +31,9 @@
 
 To setup:
 
-1.``` git clone https://github.com/ezraundag/abilto.git ```
+1.``` git clone https://github.com/ezraundag/forum.git ```
 
-2.``` cd abilto ```
+2.``` cd forum ```
 
 3.```composer update```
 
